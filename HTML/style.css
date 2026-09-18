@@ -1,0 +1,9 @@
+body { background-color: lightblue; }
+h1 { color: navy; } 
+p { color: green; font-size: 18px; } 
+h1 { color: purple; } .title { color: orange; } #special { color: red; } 
+h1 { color: #24346b; } .box { background-color: #e8f0ff; } 
+h1 { color: white; background-color: #24346b; } 
+p { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-align: center; } 
+.card { width: 300px; padding: 20px; border: 2px solid black; margin: 15px; } 
+.box { width: 300px; height: 150px; border: 2px solid black; border-radius: 10px; }

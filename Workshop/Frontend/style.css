@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0e0d0dfd;
+    margin: 40px;
+}
+
+header {
+    margin-bottom: 30px;
+    background: #48a7c7
+}
+
+section {
+    background: rgb(11, 179, 205);
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+input {
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.event {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+
+.event h3 {
+    margin-top: 0;
+}
